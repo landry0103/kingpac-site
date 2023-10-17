@@ -3,11 +3,6 @@
 ## Live site
 [![Live site](live-site.png)](https://kingpactoken.com)
 
-## Contact info
-- **Email:** mr.new0509@gmail.com
-- **Telegram:** [@mrnew0509](https://t.me/mrnew0509)
-- **Skype:** sin085
-
 ## Release date
 May 26, 2022
 
